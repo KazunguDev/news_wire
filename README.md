@@ -9,7 +9,5 @@ A complete news website working perfectly in flutter application.
 
 ![Screenshot_20230831-231848](https://github.com/KazunguDev/news_wire/assets/88532016/0d09fce9-88a3-471a-870c-609969882034)
 
-![Screenshot_1693490080](https://github.com/KazunguDev/news_wire/assets/88532016/7efbba94-a54a-482d-bd80-3d53998d0ed1)
-
 ![Screenshot_20230831-231807](https://github.com/KazunguDev/news_wire/assets/88532016/b75df47b-cf3b-4ca2-85a0-7549b7fcd500)
 
