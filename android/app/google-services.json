@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137970504611",
+    "firebase_url": "https://cycling-routes-58601-default-rtdb.firebaseio.com",
+    "project_id": "cycling-routes-58601",
+    "storage_bucket": "cycling-routes-58601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137970504611:android:4af553d92d62054f370016",
+        "android_client_info": {
+          "package_name": "com.kazungudev.news_wire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137970504611-91v62dkmcsivhm2n7r1ronp13c3pqv6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99abCqMd-mKU6Vz6vx6_qPtGH4TMIb0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137970504611-91v62dkmcsivhm2n7r1ronp13c3pqv6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137970504611-523s5jft1lgc6d41ipdkhlt5cqgr0ih6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.newsWire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
